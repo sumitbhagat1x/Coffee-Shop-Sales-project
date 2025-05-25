@@ -15,11 +15,11 @@ This is a coffee shop sales project. The data was provided in raw form, and the 
 ✅ Added two slicers (Months and Weekdays) for dynamic filtering
 
 ## 🛠 2. Tools Used:
-Microsoft Excel – for charts, pivot tables, and extracting insights
+1.Microsoft Excel – for charts, pivot tables, and extracting insights
 
-Power Query Editor (PQ) – primarily for cleaning and transforming data
+2.Power Query Editor (PQ) – primarily for cleaning and transforming data
 
-📊 3. Dashboard Highlights (Useful Insights):
+## 📊 3. Dashboard Highlights (Useful Insights):
 ✅ Quantity Order based on Hours
 
 ✅ Category-wise % Distribution based on Sales
@@ -33,16 +33,16 @@ Power Query Editor (PQ) – primarily for cleaning and transforming data
 ...and many more insightful metrics!
 
 ## 📚 4. What I Learned:
-How to use Power Query Editor effectively
+1.How to use Power Query Editor effectively
 
-How to create Measures (to show values without looking at the charts)
+2.How to create Measures (to show values without looking at the charts)
 
-Additional tips like:
+3.Additional tips like:
 
-Preventing unwanted chart movement
+4.Preventing unwanted chart movement
 
-Setting up passwords for file security
+5.Setting up passwords for file security
 
-Improving dashboard usability
+6.Improving dashboard usability
 
 ### LINK OF THE PROJECT -https://github.com/sumitbhagat1x/Coffee-Shop-Sales-project/tree/main/Cofee_shop_sales-project-2
