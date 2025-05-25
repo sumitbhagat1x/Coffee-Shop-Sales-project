@@ -32,17 +32,9 @@ This is a coffee shop sales project. The data was provided in raw form, and the 
 
 ...and many more insightful metrics!
 
-## 📚 4. What I Learned:
-1.How to use Power Query Editor effectively
+## 📚 4.Report:
+In June month there is most coffee sales occure and most revenu genrate too.Total sales in june Month is $1,66,485.88,
+not only this footfall is also high.In contrast february is most lowest sales occure, we have to create some offers so 
+that more sales will increse in this month not only this we can give some additional discounts.
 
-2.How to create Measures (to show values without looking at the charts)
-
-3.Additional tips like:
-
-4.Preventing unwanted chart movement
-
-5.Setting up passwords for file security
-
-6.Improving dashboard usability
-
-### LINK OF THE PROJECT -https://github.com/sumitbhagat1x/Coffee-Shop-Sales-project/tree/main/Cofee_shop_sales-project-2
+### LINK OF THE PROJECT - https://github.com/sumitbhagat1x/Coffee-Shop-Sales-project/tree/main/Cofee_shop_sales-project-2
